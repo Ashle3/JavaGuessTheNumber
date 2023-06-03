@@ -1,18 +1,30 @@
-## Getting Started
+# Overview
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-## Folder Structure
+{Provide a description of the software that you wrote to demonstrate the Java language.}
 
-The workspace contains two folders by default, where:
+{Describe your purpose for writing this software.}
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+[Software Demo Video](http://youtube.link.goes.here)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+# Development Environment
 
-## Dependency Management
+{Describe the tools that you used to develop the software}
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+{Describe the programming language that you used and any libraries.}
+
+# Useful Websites
+
+- W3Schools  - https://www.w3schools.com/java/default.asp
+- YouTube video demonstrating how to generate random numbers - https://www.youtube.com/watch?v=VMZLPl16P5c
+
+# Future Work
+
+{Make a list of things that you need to fix, improve, and add in the future.}
+
+- Item 1
+- Item 2
+- Item 3
