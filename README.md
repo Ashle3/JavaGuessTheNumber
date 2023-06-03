@@ -6,9 +6,7 @@ This software is a number guessing game. You are given 10 tries to guess the cor
 
 I wrote this software so that I could become familiar with the basic syntax of the Java programming language. I wanted to learn Java becausse it is a language that is widely used within the software development field.  
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](https://www.youtube.com/watch?v=v_gIIfvY9qY)
+Software Demo Video - https://www.youtube.com/watch?v=v_gIIfvY9qY
 
 # Development Environment
 
