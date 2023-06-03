@@ -12,9 +12,9 @@ I wrote this software so that I could become familiar with the basic syntax of t
 
 # Development Environment
 
-I used a Java Development Kit (JDK) to install Java onto my computer
-I used VSCode to write and edit my program.
-I installed the VSCode extension, Extension Pack for Java, so that I could write Java in VSCode.
+- I used a Java Development Kit (JDK) to install Java onto my computer.
+- I used VSCode to write and edit my program.
+- I installed the VSCode extension, Extension Pack for Java, so that I could write Java in VSCode.
 
 The programming language that I used was Java. The Java library I used was the util library. The util library allowed me to import the Random, Scanner, and ArrayList classes that I needed for my code.
 
